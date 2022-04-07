@@ -2,6 +2,18 @@ GTSAM Tutorial Examples
 ===================================================
 This repo is a collection of [GTSAM](https://bitbucket.org/gtborg/gtsam) tutorial examples for GTSAM starters by [Jing Dong](mailto:thu.dongjing@gmail.com). Checkout GTSAM tutorial slides for more explanations and infomation. 
 
+2016年视频：[【泡泡机器人公开课】第五十六课：gtsam_tutorial-董靖B站](https://www.bilibili.com/video/BV1C4411772G)
+
+此处新增python，对于python只需pip install即可，无需下列prerequisites，如果不想安装，推荐google colab进行简单尝试
+
+```
+pip3 install gtsam
+```
+
+---
+
+以下为原readme中所含cpp和matlab所需
+
 Prerequisites
 ------
 
@@ -40,5 +52,4 @@ The gpmp2 library is designed to be cross-platform, however it's only tested on 
 
 - Compilers: GCC 4.8, 4.9, 5.3
 - Boost version: 1.50 - 1.60
-
 
